@@ -144,7 +144,7 @@ const CONFIG = {
     retryRand: 4000,
     maxRetry: 2
 };
-
+```
 
 🧠 How It Works
 Extract chapter list from .list-body
